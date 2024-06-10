@@ -1,4 +1,4 @@
-'use strict';
+'use strict';  //generate more helpful error messages
 
 const usernamePage = document.querySelector('#username-page');
 const chatPage = document.querySelector('#chat-page');
